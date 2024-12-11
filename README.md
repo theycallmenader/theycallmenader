@@ -9,11 +9,11 @@ Welcome to my GitHub! I’m a **Cybersecurity and IT Audit Enthusiast** with a s
   - 🎓 Currently Pursuing a Master’s Degree in Audit and IT Security.  
   - 🎓 Bachelor’s Degree in Computer Science.
 
-- 💼 **Cybersecurity Focus**:  
+- 💼 **Cybersecurity Focus**:
+  - 🛡️ **Learning** to design **Zero Trust Architectures** and getting **Familiarizing** with  **PAM**, **IAM**, **OpenCTI**, and **WAF**.
   - 🔐 **Learning** MEHARI and **eBIOS** methods for risk management and scenario analysis.  
   - 🕵️‍♂️ Developing **OSINT platforms** for monitoring vulnerabilities and investigating potential threats.  
-  - 🛡️ **Learning** to design **Zero Trust Architectures** and working with tools like **PAM**, **IAM**, **OpenCTI**, and **WAF**.
-
+  
 - 💻 **Development Skills**:  
   - 🖥️ **Programming Languages**: JavaScript, Python, Java.  
   - 🌐 **Web Development**: MERN stack (MongoDB, Express, React, Node.js), Angular.  
@@ -26,7 +26,7 @@ Welcome to my GitHub! I’m a **Cybersecurity and IT Audit Enthusiast** with a s
 - 🧠 **Cybersecurity Research**:  
   Exploring the latest in **Zero Trust** methodologies and **PAM/IAM** tools, with the aim to contribute to the design and implementation of secure infrastructures in organizations.
 
-  - 📚 **ISO Standards**:  
+- 📚 **ISO Standards**:  
   Acquiring skills in **ISO 27001** and **ISO 27005** for IT audits, risk management, and organizational security practices, with a focus on creating robust information security management systems (ISMS) and risk assessment methodologies.
   
 - 📊 **OSINT Platform**:  
@@ -41,7 +41,7 @@ Welcome to my GitHub! I’m a **Cybersecurity and IT Audit Enthusiast** with a s
 ## ⚡ Skills and Tools  
 
 ### 🛡️ **Cybersecurity & Risk Management**  
-- !**Zero Trust Architecture**: **Deepening understanding of** implementing Zero Trust principles for network security, including tools like **PAM**, **IAM**, and **WAF** to ensure strict access control and minimize risks.  
+- **Zero Trust Architecture**: **Deepening understanding of** implementing Zero Trust principles for network security, including tools like **PAM**, **IAM**, and **WAF** to ensure strict access control and minimize risks.  
 - **Risk Management**: **Developing proficiency in** methods like **MEHARI** and **eBIOS** for risk assessment, scenario analysis, and developing comprehensive cybersecurity strategies.
 - **SIEM (Security Information and Event Management)**: **Learning** to manage and analyze security data, utilizing SIEM systems for real-time monitoring, and incident response.  
 - **OSINT (Open Source Intelligence)**: **Learning** to leverage open-source data and APIs to gather actionable intelligence, monitor threats, and detect vulnerabilities.  
