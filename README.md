@@ -1,63 +1,68 @@
-<h2 align="left">Hi 👋! My name is Nader Sdiri, and I'm a Cybersecurity and IT Audit Enthusiast from Tunisia.</h2>
+# 👋 Hi, I’m Nader Sdiri (@theycallmenader)
 
-###
+Welcome to my GitHub! I’m a **Cybersecurity and IT Audit Enthusiast** with a solid foundation in **Web Development** and a passion for creating secure, innovative digital solutions.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theycallmenader&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theycallmenader&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🛡️ About Me  
+- 🎓 **Education**:  
+  - 🎓 Currently Pursuing a Master’s Degree in Audit and IT Security.  
+  - 🎓 Bachelor’s Degree in Computer Science.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 💼 **Cybersecurity Focus**:  
+  - 🔐 **Learning** MEHARI and **eBIOS** methods for risk management and scenario analysis.  
+  - 🕵️‍♂️ Developing **OSINT platforms** for monitoring vulnerabilities and investigating potential threats.  
+  - 🛡️ **Learning** to design **Zero Trust Architectures** and working with tools like **PAM**, **IAM**, **OpenCTI**, and **WAF**.
 
-###
+- 💻 **Development Skills**:  
+  - 🖥️ **Programming Languages**: JavaScript, Python, Java.  
+  - 🌐 **Web Development**: MERN stack (MongoDB, Express, React, Node.js), Angular, RESTful APIs.  
+  - ⚙️ **Tools**: Docker, Git, Anaconda.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+---
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-</div>
+## 🌱 Current Projects and Learning Goals  
+- 📊 **OSINT Platform**:  
+  Developing a comprehensive **OSINT platform** leveraging the **NVD API** to monitor vulnerabilities, track CVEs, and visualize real-time data for enhanced threat intelligence and decision-making.  
 
-###
+- 🛠️ **Risk Management**:  
+  **Immersing in** Developing realistic cybersecurity scenarios based on MEHARI and eBIOS methods.
 
-<br clear="both">
+- 📚 **ISO Standards**:  
+  Acquiring skills in **ISO 27001** and **ISO 27005** for IT audits, risk management, and organizational security practices, with a focus on creating robust information security management systems (ISMS) and risk assessment methodologies.
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- 🧠 **Cybersecurity Research**:  
+  Exploring the latest in **Zero Trust** methodologies and **PAM/IAM** tools, with the aim to contribute to the design and implementation of secure infrastructures in organizations.
 
-###
+---
 
-<h3 align="left">💻 Cybersecurity Areas</h3>
-- 🛡️ SIEM Analysis  
-- 🔍 OSINT Investigation  
-- 🔐 Zero Trust Architectures  
-- 📊 Risk Management (MEHARI & eBIOS)  
-- 🐛 Vulnerability Management (NVD, ELK Stack)  
+## ⚡ Skills and Tools  
 
-<h3 align="left">🔧 Technical Toolkit</h3>
-- **Languages**: Python, JavaScript, Java  
-- **Frameworks**: Docker, Angular, MERN Stack  
-- **Tools**: Git, Anaconda, Wireshark  
+### 🛡️ **Cybersecurity & Risk Management**  
+- ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Beginner-yellow): **Deepening understanding of** implementing Zero Trust principles for network security, including tools like **PAM**, **IAM**, and **WAF** to ensure strict access control and minimize risks.  
+- ![Risk Management](https://img.shields.io/badge/Risk%20Management-Beginner-green): **Developing proficiency in** methods like **MEHARI** and **eBIOS** for risk assessment, scenario analysis, and developing comprehensive cybersecurity strategies.
+- ![SIEM](https://img.shields.io/badge/SIEM-Beginner-green): **Learning** to manage and analyze security data, utilizing SIEM systems for real-time monitoring, and incident response.  
+- ![OSINT](https://img.shields.io/badge/OSINT-Beginner-blue): **Learning** to leverage open-source data and APIs to gather actionable intelligence, monitor threats, and detect vulnerabilities.  
 
-<h3 align="left">🌱 Currently Working On</h3>
-- Building an **OSINT platform** for vulnerability monitoring.  
-- Designing **Capture the Flag (CTF)** scenarios using MEHARI and eBIOS.  
-- Deep diving into **ISO 27001** and **ISO 27005** for IT audits.
+### 💻 **Programming & Development**  
+- ![Python](https://img.shields.io/badge/Python-Intermediate-blue): **Getting hands-on experience with Python** for automation, scripting, and security-related tasks, including building tools for vulnerability scanning and analysis.  
+- ![Java](https://img.shields.io/badge/Java-Beginner-red)  : **Learning** Java for backend development and building secure enterprise-level applications.  
+- ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Intermediate-lightblue): **Enhancing** my skills to develop full-stack applications with **MongoDB**, **Express**, **React**, and **Node.js** for building robust web applications with a focus on security.  
+- ![Docker](https://img.shields.io/badge/Docker-Beginner-lightblue): **Familiarizing with Docker** for containerization, ensuring consistency across environments, and simplifying deployment processes for applications and security tools.  
+- ![Git](https://img.shields.io/badge/Git-Intermediate-orange): **Gaining expertise in** version control with **Git**, using GitHub for code management, collaboration, and open-source contributions. 
+
+### ⚙️ **Tools & Technologies**  
+- **Anaconda**: **Familiarizing** to manage Python environments and data science tools with **Anaconda**.  
+- **OpenCTI**: **Learning** how to integrate **OpenCTI** for enhanced threat intelligence and coordination in cybersecurity operations.  
+- **WAF (Web Application Firewall)**: **Learning** to implement **WAF** solutions to protect web applications from attacks like SQL injection and cross-site scripting (XSS).  
+- **PAM (Privileged Access Management)**: **Learning** how to secure and control access to sensitive systems by implementing **PAM** solutions for managing privileged accounts.
+
+
+---
+
+## 📬 Contact Me  
+Let’s connect and collaborate!  
+- **LinkedIn**: [Nader Sdiri](https://www.linkedin.com/in/theycallmenader/)  
+
+🚀 Check out my repositories for projects and insights into my work!
