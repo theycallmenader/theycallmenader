@@ -30,16 +30,17 @@ Welcome to my GitHub! I’m a **Cybersecurity and IT Audit Enthusiast** with a s
 
 ## ⚡ Skills and Tools  
 ### 🛡️ Cybersecurity  
-![SIEM](https://img.shields.io/badge/SIEM-Expert-green)  
-![OSINT](https://img.shields.io/badge/OSINT-Experienced-blue)  
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Specialist-yellow)  
+![SIEM](https://img.shields.io/badge/SIEM-green)  
+![OSINT](https://img.shields.io/badge/OSINT-blue)  
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-yellow)  
 
 ### 💻 Programming Languages and Tools  
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)  
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)  
-![Java](https://img.shields.io/badge/Java-Beginner-red)  
-![Docker](https://img.shields.io/badge/Docker-Intermediate-lightblue)  
-![Git](https://img.shields.io/badge/Git-Experienced-orange)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)  
+![Python](https://img.shields.io/badge/Python-blue)  
+![Java](https://img.shields.io/badge/Java-red)  
+![Docker](https://img.shields.io/badge/Docker-lightblue)  
+![Git](https://img.shields.io/badge/Git-orange)  
+
 
 ---
 
