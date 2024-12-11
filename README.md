@@ -64,6 +64,6 @@ Welcome to my GitHub! I’m a **Cybersecurity and IT Audit Enthusiast** with a s
 
 ## 📬 Contact Me  
 Let’s connect and collaborate!  
-- **LinkedIn**: [Nader Sdiri](https://www.linkedin.com/in/theycallmenader/)  
+- **LinkedIn**: [Nader Sdiri](https://www.linkedin.com/in/nader-sdiri/)  
 
 🚀 Check out my repositories for projects and insights into my work!
