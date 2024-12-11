@@ -1,47 +1,61 @@
 # 👋 Hi, I’m Nader Sdiri (@theycallmenader)  
 
-Welcome to my GitHub! I’m a **Cybersecurity and IT Audit enthusiast** with a solid foundation in **web development** and a growing passion for creating secure and innovative digital solutions.  
+Welcome to my GitHub! I’m a **Cybersecurity and IT Audit Enthusiast** with a solid foundation in **Web Development** and a passion for crafting secure and innovative digital solutions.  
 
 ---
 
-## 🧑‍💻 About Me  
+## 🛡️ About Me  
 - 🎓 **Education**:  
-  - Master’s Degree in Audit and IT Security (current).  
-  - Bachelor’s Degree in Computer Science.  
+  - 🎓 Master’s Degree in Audit and IT Security (Current).  
+  - 🎓 Bachelor’s Degree in Computer Science.  
 
-- 🛡️ **Cybersecurity Focus**:  
-  - Learning and applying frameworks like **MEHARI** and **eBIOS** for effective risk management.  
-  - Investigating and securing vulnerable systems with OSINT tools and SIEM solutions.  
-  - Building **Zero Trust Architectures** with tools like PAM, IAM, and WAF.  
+- 💼 **Cybersecurity Focus**:  
+  - 🔐 Learning in **MEHARI** and **eBIOS** methods for risk management and scenario analysis.  
+  - 🕵️‍♂️ Building OSINT platforms to monitor vulnerabilities and investigate potential threats.  
+  - 🛡️ Learning **Zero Trust Architectures** and leveraging tools like **PAM, IAM, OpenCTI, and WAF**.  
 
 - 💻 **Development Skills**:  
-  - Experienced in the MERN stack (MongoDB, Express, React, Node.js).  
-  - Skilled in designing and deploying full-stack web applications and APIs.  
-  - Adept at integrating secure coding practices into software development.  
+  - 🖥️ **Programming**: JavaScript, Python, Java.  
+  - 🌐 **Web Development**: MERN stack (MongoDB, Express, React, Node.js), Angular, RESTful APIs.  
+  - ⚙️ **Tools**: Docker, Git, and Anaconda.  
 
 ---
 
 ## 🌱 Current Projects and Learning Goals  
-- Building an **OSINT platform** to monitor and visualize vulnerabilities using the NVD API.  
-- Exploring  **ISO 27001** and **ISO 27005** standards for professional IT audit practices.
-- Exploring MEHARI and eBIOS methods for risk assessment and scenario development in cybersecurity projects.  
+- 📊 **OSINT Platform**: Using the NVD API to monitor and visualize vulnerabilities.  
+- 🛠️ - **Risk Management**: Exploring MEHARI and eBIOS methods for risk assessment and scenario development in cybersecurity projects.    
+- 📚 **ISO Standards**: Gaining expertise in **ISO 27001** and **ISO 27005** for IT audits and risk management.  
 
+---
+
+## ⚡ Skills and Tools  
+### 🛡️ Cybersecurity  
+![SIEM](https://img.shields.io/badge/SIEM-Expert-green)  
+![OSINT](https://img.shields.io/badge/OSINT-Experienced-blue)  
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Specialist-yellow)  
+
+### 💻 Programming Languages and Tools  
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)  
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)  
+![Java](https://img.shields.io/badge/Java-Beginner-red)  
+![Docker](https://img.shields.io/badge/Docker-Intermediate-lightblue)  
+![Git](https://img.shields.io/badge/Git-Experienced-orange)  
 
 ---
 
 ## 🤝 Collaboration Opportunities  
-I’m eager to connect and collaborate on:  
-- Cybersecurity research and risk management frameworks.  
-- Innovative web applications with a security-first approach.  
-- AI-driven solutions to enhance cybersecurity processes.  
+I’m excited to connect on:  
+- 🛡️ **Cybersecurity Projects**: OSINT, SIEM, or CTF development.  
+- 🌐 **Web Applications**: Innovative, security-focused solutions.  
+- 🤖 **AI for Cybersecurity**: Automating risk management and threat analysis.  
 
 ---
 
-## 📬 Let’s Connect  
-Feel free to reach out if you’d like to collaborate, share ideas, or discuss opportunities!  
+## 📬 Contact Me  
+Let’s connect and collaborate!  
 - **LinkedIn**: [Nader Sdiri](https://www.linkedin.com/in/theycallmenader/)  
 
-Check out my repositories to explore projects and learn more about my work. 🚀  
+🚀 Check out my repositories for projects and insights into my work!  
 
 
 
