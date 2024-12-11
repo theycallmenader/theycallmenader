@@ -16,34 +16,35 @@ Welcome to my GitHub! I’m a **Cybersecurity and IT Audit Enthusiast** with a s
 
 - 💻 **Development Skills**:  
   - 🖥️ **Programming Languages**: JavaScript, Python, Java.  
-  - 🌐 **Web Development**: MERN stack (MongoDB, Express, React, Node.js), Angular, RESTful APIs.  
+  - 🌐 **Web Development**: MERN stack (MongoDB, Express, React, Node.js), Angular.  
   - ⚙️ **Tools**: Docker, Git, Anaconda.
 
 ---
 
 
 ## 🌱 Current Projects and Learning Goals  
+- 🧠 **Cybersecurity Research**:  
+  Exploring the latest in **Zero Trust** methodologies and **PAM/IAM** tools, with the aim to contribute to the design and implementation of secure infrastructures in organizations.
+
+  - 📚 **ISO Standards**:  
+  Acquiring skills in **ISO 27001** and **ISO 27005** for IT audits, risk management, and organizational security practices, with a focus on creating robust information security management systems (ISMS) and risk assessment methodologies.
+  
 - 📊 **OSINT Platform**:  
   Developing a comprehensive **OSINT platform** leveraging the **NVD API** to monitor vulnerabilities, track CVEs, and visualize real-time data for enhanced threat intelligence and decision-making.  
 
 - 🛠️ **Risk Management**:  
   **Immersing in** Developing realistic cybersecurity scenarios based on MEHARI and eBIOS methods.
 
-- 📚 **ISO Standards**:  
-  Acquiring skills in **ISO 27001** and **ISO 27005** for IT audits, risk management, and organizational security practices, with a focus on creating robust information security management systems (ISMS) and risk assessment methodologies.
-
-- 🧠 **Cybersecurity Research**:  
-  Exploring the latest in **Zero Trust** methodologies and **PAM/IAM** tools, with the aim to contribute to the design and implementation of secure infrastructures in organizations.
 
 ---
 
 ## ⚡ Skills and Tools  
 
 ### 🛡️ **Cybersecurity & Risk Management**  
-- ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Beginner-yellow): **Deepening understanding of** implementing Zero Trust principles for network security, including tools like **PAM**, **IAM**, and **WAF** to ensure strict access control and minimize risks.  
-- ![Risk Management](https://img.shields.io/badge/Risk%20Management-Beginner-green): **Developing proficiency in** methods like **MEHARI** and **eBIOS** for risk assessment, scenario analysis, and developing comprehensive cybersecurity strategies.
-- ![SIEM](https://img.shields.io/badge/SIEM-Beginner-green): **Learning** to manage and analyze security data, utilizing SIEM systems for real-time monitoring, and incident response.  
-- ![OSINT](https://img.shields.io/badge/OSINT-Beginner-blue): **Learning** to leverage open-source data and APIs to gather actionable intelligence, monitor threats, and detect vulnerabilities.  
+- !**Zero Trust Architecture**: **Deepening understanding of** implementing Zero Trust principles for network security, including tools like **PAM**, **IAM**, and **WAF** to ensure strict access control and minimize risks.  
+- **Risk Management**: **Developing proficiency in** methods like **MEHARI** and **eBIOS** for risk assessment, scenario analysis, and developing comprehensive cybersecurity strategies.
+- **SIEM (Security Information and Event Management)**: **Learning** to manage and analyze security data, utilizing SIEM systems for real-time monitoring, and incident response.  
+- **OSINT (Open Source Intelligence)**: **Learning** to leverage open-source data and APIs to gather actionable intelligence, monitor threats, and detect vulnerabilities.  
 
 ### 💻 **Programming & Development**  
 - ![Python](https://img.shields.io/badge/Python-Intermediate-blue): **Getting hands-on experience with Python** for automation, scripting, and security-related tasks, including building tools for vulnerability scanning and analysis.  
